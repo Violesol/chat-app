@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Violesol/chat-app.git)
-- Live Site URL: [Add live site URL here](https://violesol.github.io/chat-app/)
+- Solution URL: [https://github.com/Violesol/chat-app.git]
+- Live Site URL: [https://violesol.github.io/chat-app/]
 
 
 ### Built with
@@ -32,6 +32,6 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Violesol)
+- Frontend Mentor - [@Violesol](https://www.frontendmentor.io/profile/Violesol)
 
 
